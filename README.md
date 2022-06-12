@@ -3,8 +3,6 @@
 
 ### [Next Permutation - BruteForce & Optimal](https://youtu.be/W2s5tC_AS4Q)
 ### [Pascal's Triangle - BruteForce & Optimal](https://youtu.be/XP_JbnEr93w)
-### [Pascal's Triangle - BruteForce & Optimal](https://youtu.be/XP_JbnEr93w)
-### [Set Matrix Zeroes - BruteForce & Optimal](https://youtu.be/iwM_hfp7IFE)
 ### [Set Matrix Zeroes - BruteForce & Optimal](https://youtu.be/iwM_hfp7IFE)
 ### [Remove Duplicates From Sorted Array - BruteForce & Optimal](https://youtu.be/iwM_hfp7IFE)
 ### [Merge Two Sorted Lists - BruteForce & Optimal Solution](https://youtu.be/jfGj0hw2610)
