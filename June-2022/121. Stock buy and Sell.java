@@ -81,6 +81,10 @@ public class Main {
 
 
 
+
+
+
+
 //*************************************************************
 
 //LEETCODE
@@ -101,6 +105,24 @@ class Solution {
   }
 }
 
+
+
+
+
+// same 
+
+class Solution {
+  public int maxProfit(int[] prices) {
+    int maxProfit = 0;
+    int minimumPrice = prices[0];//first element
+    for (int i = 0; i < prices.length; i++) {
+      minimumPrice = Math.min(minimumPrice, prices[i]);
+      int profit = prices[i]-minimumPrice;
+      maxProfit = Math.max(maxProfit, profit);
+    }
+    return maxProfit;
+  }
+}
 
 
 //************************************************************
