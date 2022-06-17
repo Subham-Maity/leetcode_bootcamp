@@ -4,6 +4,7 @@
 
 ### June - 2022 
 **********************
+##### [Best Time to Buy and Sell Stock - BruteForce & Optimal ](https://youtu.be/HuQhebNGx3k)
 ##### [Sort an array of 0s, 1s, and 2s - Dutch National Flag Algorithm - BruteForce & Optimal](https://youtu.be/uxQ-INZwGBs)
 ##### [Kadane's Algorithm Largest Sum Contiguous Subarray - BruteForce & Optimal](https://youtu.be/ayXKRLTLEkE)
 ##### [Next Permutation - BruteForce & Optimal](https://youtu.be/W2s5tC_AS4Q)
