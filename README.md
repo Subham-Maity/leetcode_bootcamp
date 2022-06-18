@@ -4,6 +4,7 @@
 
 ### June - 2022 
 **********************
+##### [Merge Overlapping Subintervals - Optimal ](https://youtu.be/FHF21pmBAMM)
 ##### [Rotate Matrix by 90 degrees - BruteForce & Optimal ](https://youtu.be/jRdQmsrybAA)
 ##### [Best Time to Buy and Sell Stock - BruteForce & Optimal ](https://youtu.be/HuQhebNGx3k)
 ##### [Sort an array of 0s, 1s, and 2s - Dutch National Flag Algorithm - BruteForce & Optimal](https://youtu.be/uxQ-INZwGBs)
