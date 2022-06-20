@@ -4,6 +4,7 @@
 
 ### June - 2022 
 **********************
+##### [Merge Two Sorted Arrays Without Extra Space - Shell Sort & Insertion Sort - BruteForce & Optimal](https://youtu.be/iDLZdWefgus)
 ##### [Merge Overlapping Subintervals - Optimal ](https://youtu.be/FHF21pmBAMM)
 ##### [Rotate Matrix by 90 degrees - BruteForce & Optimal ](https://youtu.be/jRdQmsrybAA)
 ##### [Best Time to Buy and Sell Stock - BruteForce & Optimal ](https://youtu.be/HuQhebNGx3k)
