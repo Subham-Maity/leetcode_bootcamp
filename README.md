@@ -6,7 +6,6 @@
 **********************
 ##### [Find Missing and Repeating Element - BruteForce - Better - Better - Optimal & Optimal](https://youtu.be/kPvnr5C6GdE)
 ##### [Find the Duplicate Number -  Floyd's Algorithm - BruteForce & Optimal](https://youtu.be/6yPvTEehNyM)
-##### [Find the Duplicate Number -  Floyd's Algorithm - BruteForce & Optimal](https://youtu.be/6yPvTEehNyM)
 ##### [Merge Two Sorted Arrays Without Extra Space - Shell Sort & Insertion Sort - BruteForce & Optimal](https://youtu.be/iDLZdWefgus)
 ##### [Merge Overlapping Subintervals - Optimal ](https://youtu.be/FHF21pmBAMM)
 ##### [Rotate Matrix by 90 degrees - BruteForce & Optimal ](https://youtu.be/jRdQmsrybAA)
