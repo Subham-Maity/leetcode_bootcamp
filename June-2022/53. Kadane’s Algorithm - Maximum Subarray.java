@@ -186,6 +186,42 @@ class Solution{
         return maxi;
    }
 }
+ 
+
+
+//same
+//optimal
+//Time Complexity - O(n)
+//Space Complexity - O(1)
+class Solution{
+
+      // Kadane’s Algorithm
+    public int maxSubArray(int[]nums){
+
+        //Kadane’s Algorithm - O(n)
+        int sum = 0;//sum of the current subarray
+        int maximum = nums[0];//maximum sum of the subarray
+
+        for(int i=0; i< nums.length; i++){//iterate through the array
+
+            sum += nums[i];//add the current element to the sum
+
+            if(sum > maximum){//if the sum is greater than the maximum, update the maximum
+                maximum=sum;//update the maximum
+            }
+
+
+            if(sum < 0){//if the sum is less than 0, reset the sum to 0
+                sum = 0;//reset the sum
+            }
+
+        }
+
+        return maximum;
+    }
+}
+
+
 
 
 
