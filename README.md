@@ -4,7 +4,7 @@
 
 ### June - 2022 
 **********************
-
+##### [Search in 2D-MATRIX  - BruteForce -Optimal](https://youtu.be/ucXr6wppvu0)
 ##### [Kth Largest Element in an Array -Quick Select & PriorityQueue - BruteForce - Better - Optimal](https://youtu.be/NTyyMzTogbo)
 ##### [Find Missing and Repeating Element - BruteForce - Better - Better - Optimal & Optimal](https://youtu.be/kPvnr5C6GdE)
 ##### [Find the Duplicate Number -  Floyd's Algorithm - BruteForce & Optimal](https://youtu.be/6yPvTEehNyM)
