@@ -3,6 +3,7 @@
 ### July - 2022 
 **********************
 ##### [Count Inversions in an Array - Brute - Optimal](https://youtu.be/PbifFziCauo)
+##### [POW(x,n) - Binary Exponentiation-Iterative-Recursive-Brute Force](https://youtu.be/ucv2TXF8shg)
 
 
 ***********************
