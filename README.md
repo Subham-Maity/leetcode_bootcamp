@@ -1,7 +1,12 @@
 # leetcode_bootcamp
 # Video Help - Follow CodeXam
+### July - 2022 
+**********************
+##### [Count Inversions in an Array - Brute - Optimal](https://youtu.be/PbifFziCauo)
 
 
+***********************
+***********************
 ### June - 2022 
 **********************
 ##### [Search in 2D-MATRIX  - BruteForce -Optimal](https://youtu.be/ucXr6wppvu0)
