@@ -2,6 +2,7 @@
 # Video Help - Follow CodeXam
 ### July - 2022 
 **********************
+##### [Majority Element - Moore's Voting Algorithm - Brute-Better-Optimal ](https://youtu.be/b4jrF2I7p7A)
 ##### [Count Inversions in an Array - Brute - Optimal](https://youtu.be/PbifFziCauo)
 ##### [POW(x,n) - Binary Exponentiation-Iterative-Recursive-Brute Force](https://youtu.be/ucv2TXF8shg)
 
