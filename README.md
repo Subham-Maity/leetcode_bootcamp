@@ -2,6 +2,7 @@
 # Video Help - Follow CodeXam
 ### July - 2022 
 **********************
+##### [Majority Element II - Modified Moore's Voting Algorithm - Brute-Better-Optimal ](https://youtu.be/b4jrF2I7p7A)
 ##### [Majority Element - Moore's Voting Algorithm - Brute-Better-Optimal ](https://youtu.be/b4jrF2I7p7A)
 ##### [Count Inversions in an Array - Brute - Optimal](https://youtu.be/PbifFziCauo)
 ##### [POW(x,n) - Binary Exponentiation-Iterative-Recursive-Brute Force](https://youtu.be/ucv2TXF8shg)
@@ -11,7 +12,7 @@
 ***********************
 ### June - 2022 
 **********************
-##### [Search in 2D-MATRIX  - BruteForce -Optimal](https://youtu.be/ucXr6wppvu0)
+##### [Search in 2D-MATRIX  - BruteForce -Optimal](https://youtu.be/HVTw_GKtNlY)
 ##### [Kth Largest Element in an Array -Quick Select & PriorityQueue - BruteForce - Better - Optimal](https://youtu.be/NTyyMzTogbo)
 ##### [Find Missing and Repeating Element - BruteForce - Better - Better - Optimal & Optimal](https://youtu.be/kPvnr5C6GdE)
 ##### [Find the Duplicate Number -  Floyd's Algorithm - BruteForce & Optimal](https://youtu.be/6yPvTEehNyM)
