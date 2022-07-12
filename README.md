@@ -2,6 +2,7 @@
 # Video Help - Follow CodeXam
 ### July - 2022 
 **********************
+##### [Is Subsequence ll - Two Pointers](https://youtu.be/fef6weiQypw)
 ##### [Majority Element II - Modified Moore's Voting Algorithm - Brute-Better-Optimal ](https://youtu.be/HVTw_GKtNlY)
 ##### [Majority Element - Moore's Voting Algorithm - Brute-Better-Optimal ](https://youtu.be/b4jrF2I7p7A)
 ##### [Count Inversions in an Array - Brute - Optimal](https://youtu.be/PbifFziCauo)
