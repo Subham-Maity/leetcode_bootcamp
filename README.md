@@ -2,11 +2,13 @@
 # Video Help - Follow CodeXam
 ### July - 2022 
 **********************
+##### [Unique Paths - Recursion-Top-Down-Bottom-Up-SpaceOptimization-Combination](https://youtu.be/W65eQqPKazo)
 ##### [Is Subsequence ll - Two Pointers](https://youtu.be/fef6weiQypw)
 ##### [Majority Element II - Modified Moore's Voting Algorithm - Brute-Better-Optimal ](https://youtu.be/HVTw_GKtNlY)
 ##### [Majority Element - Moore's Voting Algorithm - Brute-Better-Optimal ](https://youtu.be/b4jrF2I7p7A)
 ##### [Count Inversions in an Array - Brute - Optimal](https://youtu.be/PbifFziCauo)
 ##### [POW(x,n) - Binary Exponentiation-Iterative-Recursive-Brute Force](https://youtu.be/ucv2TXF8shg)
+
 
 
 ***********************
