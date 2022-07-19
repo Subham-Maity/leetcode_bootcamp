@@ -2,6 +2,7 @@
 # Video Help - Follow CodeXam
 ### July - 2022 
 **********************
+##### [Reverse Pairs - Modified Merge Sort -  Brute Force - Optimal](https://youtu.be/cnkf8VcCIyQ)
 ##### [Unique Paths - Recursion-Top-Down-Bottom-Up-SpaceOptimization-Combination](https://youtu.be/W65eQqPKazo)
 ##### [Is Subsequence ll - Two Pointers](https://youtu.be/fef6weiQypw)
 ##### [Majority Element II - Modified Moore's Voting Algorithm - Brute-Better-Optimal ](https://youtu.be/HVTw_GKtNlY)
