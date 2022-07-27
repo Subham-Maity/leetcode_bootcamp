@@ -2,6 +2,7 @@
 # Video Help - Follow CodeXam
 ### July - 2022 
 **********************
+##### [4SUM - Two Pointers and Hash Set Approaches](https://youtu.be/WQvEARtc_a8)
 ##### [Reverse a Linked List - Iteratively & Recursively ](https://youtu.be/BHqFxFtWdZA)
 ##### [Isomorphic Strings - String & Hashmap](https://youtu.be/iZhZXe1bJGw)
 ##### [Maximize The Cut Segments - Recursion-Top-Down-Bottom-Up-SpaceOptimization](https://youtu.be/t7fHhn0V3Ys)
