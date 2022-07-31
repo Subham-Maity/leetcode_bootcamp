@@ -2,6 +2,7 @@
 # Video Help - Follow CodeXam
 ### July - 2022 
 **********************
+##### [Longest Consecutive Sequences - HashSet and Intelligent Sequence Building](https://youtu.be/SbE2ykCKMkQ)
 ##### [Count Derangements - Dynamic Programming](https://youtu.be/0pe_6CMimaY)
 ##### [4SUM - Two Pointers and Hash Set Approaches](https://youtu.be/WQvEARtc_a8)
 ##### [Reverse a Linked List - Iteratively & Recursively ](https://youtu.be/BHqFxFtWdZA)
