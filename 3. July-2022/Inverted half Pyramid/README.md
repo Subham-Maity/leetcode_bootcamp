@@ -1,9 +1,4 @@
-# 4.(Inverted half Pyramid )
-
-# 1 to 9 all Pattern Quality Loss canvas Download [here](https://raw.githubusercontent.com/Subham-Maity/java-python-problem-solving-series/master/Image(ignore)/Total%209%20pattern%20problem%20in%201%20canvas%20.svg)
-# 9 to 19 all Pattern Quality Loss canvas Download [here](https://raw.githubusercontent.com/Subham-Maity/java-python-problem-solving-series/master/Image(ignore)/9-19%20all%20pattern%20canvas%20.svg)
-
-
+# 4.Inverted half Pyramid 
 ## Exercise
 Print the pattern using for loop
 
