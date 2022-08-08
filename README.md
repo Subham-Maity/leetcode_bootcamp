@@ -1,5 +1,12 @@
 # leetcode_bootcamp
 # Video Help - Follow CodeXam
+
+### August - 2022 
+**********************
+##### [Length of the longest subarray with zero Sum](https://youtu.be/E2fwcD23io0)
+##### [Subarray with given XOR](https://youtu.be/Tx61uAi8ExI)
+
+
 ### July - 2022 
 **********************
 ##### [Longest Consecutive Sequences - HashSet and Intelligent Sequence Building](https://youtu.be/SbE2ykCKMkQ)
