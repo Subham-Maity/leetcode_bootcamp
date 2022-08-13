@@ -7,6 +7,8 @@
 ##### [Subarray with given XOR](https://youtu.be/Tx61uAi8ExI)
 
 
+
+
 ### July - 2022 
 **********************
 ##### [Longest Consecutive Sequences - HashSet and Intelligent Sequence Building](https://youtu.be/SbE2ykCKMkQ)
